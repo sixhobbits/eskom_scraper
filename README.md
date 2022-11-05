@@ -9,7 +9,7 @@ There are a few different sources of Eskom data
 
 The `eskom_dataroom_scraper.py` file has functions to scrape the PDF and CSV files. Currently this script can grab a full snapshot of all available data, but that's around 300MB per scrape and the annual and weekly reports don't change, so it doesn't make sense to scrape and store everything regularly. 
 
-I've also imported the 5-year data dump as a Sqlite file and create some visualisations that are available on Metabase here https://metabase.dwyer.co.za/public/dashboard/8a1e3f60-e53f-44c4-b045-cdcb35254ecb. DM me if you'd like to be added to the metabase so you can create your own queries.
+I've also imported the 5-year data dump as a Sqlite file and create some visualisations that are available on Metabase here https://metabase.dwyer.co.za/public/dashboard/8a1e3f60-e53f-44c4-b045-cdcb35254ecb. Contact me if you'd like to be added to the metabase so you can create your own queries.
 
 ## Goals
 
