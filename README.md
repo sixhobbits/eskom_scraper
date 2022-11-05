@@ -16,3 +16,6 @@ I've also imported the 5-year data dump as a Sqlite file and create some visuali
 I still want to create ETL stuff to load data from the weekly CSVs and maybe the PDFs into a centralised database, and add Metabase dashboards for these too. Although Eskom provides some visualisations in their "data room", these often only go back for a limited amount of time, so it's useful to incrementally scrape this data and create longer-term visualisations.
 
 
+## Codebridge Project
+
+See also https://hackdash.codebridge.org.za/projects/6350fcecb781e300066ea429. I'm on https://zatech.co.za if you want to get involved.
