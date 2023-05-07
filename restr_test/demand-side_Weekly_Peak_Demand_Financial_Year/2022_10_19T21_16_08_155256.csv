@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/_errors/main.css"/>
+	<title>Error 404 - www.eskom.co.za</title>
+	<style>
+		html{
+			background-color: #003896;
+		}
+		
+		body{
+			color: #fefefe;
+		}
+	</style>
+</head>
+
+<body>
+<div class="error-middle">
+	<h1>Error 404 - Not Found</h1>
+	<p>The 404 (Not Found) status code indicates that the origin server did not find a current representation for the target resource or is not willing to disclose that one exists. A 404 status code does not indicate whether this lack of representation is temporary or permanent; the 410 (Gone) status code is preferred over 404 if the origin server knows, presumably through some configurable means, that the condition is likely to be permanent.</p>
+</div>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"75cbdbeeda992325","token":"62aef79198dc496098522fa9d095ba20","version":"2022.10.3","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

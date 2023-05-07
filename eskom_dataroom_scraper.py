@@ -1,4 +1,5 @@
 import os
+import sys
 from bs4 import BeautifulSoup
 import requests
 from datetime import datetime
@@ -95,13 +96,27 @@ def scrape_all_dashboards():
             print(dashboard_url)
             print(e)
 
-def run():
-    scrape_dir = datetime.now().isoformat().replace(":","_").replace(".", "_").replace("-", "_")
-    os.mkdir(scrape_dir)
-    os.chdir(scrape_dir)
-    scrape_weekly_reports()
-    scrape_annual_reports()
-    scrape_all_dashboards()
+def run(dashboards=True, weekly=False, annual=False):
+    try:
+        scrape_dir = datetime.now().isoformat().replace(":","_").replace(".", "_").replace("-", "_")
+        os.mkdir(scrape_dir)
+        os.chdir(scrape_dir)
+        if weekly:
+            scrape_weekly_reports()
+        if annual:
+            scrape_annual_reports()
+        if dashboards:
+            scrape_all_dashboards()
+    except Exception as e:
+        r = requests.get("https://api.dwyer.co.za/pokegareth/eskomscrapefail")
+        print("Couldn't scrape")
+        print(e)
 
 if __name__ == '__main__':
-    run()
+    if len(sys.argv) == 1:
+        run()
+    else:
+        weekly = "weekly" in sys.argv
+        annual = "annual" in sys.argv
+        dashboards = "dashboards" in sys.argv
+    run(dashboards, weekly, annual)

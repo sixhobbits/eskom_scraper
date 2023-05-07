@@ -1,0 +1,5 @@
+Date_Time_Hour_Beginning;Date;DateKey;Time;DateTimeKey;Current_Installed_Capacity_MW;Current_Installed_Capacity_MW_DESC;Last_Refresh_Date
+2023-01-20 23:00:00;20-Jan-2023;2023-01-20;23:00;2023-01-20 23:00:00;500;CSP;Station Build-Up Prev Day Last Refresh Date : 2023-01-20
+2023-01-20 23:00:00;20-Jan-2023;2023-01-20;23:00;2023-01-20 23:00:00;2287,0999999999999;PV;Station Build-Up Prev Day Last Refresh Date : 2023-01-20
+2023-01-20 23:00:00;20-Jan-2023;2023-01-20;23:00;2023-01-20 23:00:00;6280,1999999999998;Total (Incl other REs);Station Build-Up Prev Day Last Refresh Date : 2023-01-20
+2023-01-20 23:00:00;20-Jan-2023;2023-01-20;23:00;2023-01-20 23:00:00;3442,5999999999999;Wind (Eskom+IPP);Station Build-Up Prev Day Last Refresh Date : 2023-01-20

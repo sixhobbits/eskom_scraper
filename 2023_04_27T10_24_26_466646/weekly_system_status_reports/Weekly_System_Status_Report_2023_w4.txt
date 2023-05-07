@@ -1,0 +1,430 @@
+Weekly System Status Report – 2023 Week 4 (23/01/2023 – 29/01/2023)
+
+Introduction
+
+This document is intended to provide a general picture of the Adequacy of the National Electricity Supply System in the medium term. The Report will
+be updated weekly, on Tuesdays and circulated Wednesdays, thereafter, published on the Eskom website, updated on Wednesdays. The values contained
+in this report are unverified and not official yet and can change at any time.
+
+Disclaimer
+
+The Data published here is for information purposes only. The content is subject to verification and validation. Eskom shall not be held responsible for
+any errors or it being misleading or incomplete and accepts no liability whatsoever for any loss, damages, or expenses, howsoever, incurred or suffered,
+resulting or arising, from the use of this Data or any reliance placed on it.
+
+
+Historic Daily Peak System Capacity/Demand
+
+                      Available                                          Actual Residual    Operating Reserve   Operating Reserve
+                                      Non-commercial    Residual Load                                                                Forecast vs. Actual
+       Date         Dispatchable                                        Demand (MW) Incl    Margin (Excl Non-    Margin (Incl Non-
+                                      Generation (MW)   Forecast (MW)                                                                (Residual Demand)
+                   Generation (MW)                                             IOS          Commercial Units)   Commercial Units)
+Mon 23/Jan/2023        27,409                0              27,994           28,174               -2.7%               -2.7%                -0.6%
+Tue 24/Jan/2023        26,885                0              27,404           27,572               -2.5%               -2.5%                -0.6%
+Wed 25/Jan/2023        26,749                0              27,698           27,755               -3.6%               -3.6%                -0.2%
+Thu 26/Jan/2023        27,786                0              28,222           29,275               -5.1%               -5.1%                -3.6%
+Fri 27/Jan/2023        26,983                0              26,789           26,936               0.2%                0.2%                 -0.5%
+Sat 28/Jan/2023        25,519                0              24,969           25,261               1.0%                1.0%                 -1.2%
+Sun 29/Jan/2023        25,673                0              25,861           25,166               2.0%                2.0%                 2.8%
+
+
+
+
+                                                             RSA
+                    Total Available                                       Actual RSA    Operating Reserve       Operating Reserve    Forecast vs. Actual
+                                      Non-commercial     Contracted
+       Date         Generation Incl                                   Contracted Demand Margin (Excl Non-        Margin (Incl Non-    (RSA Contracted
+                                      Generation (MW)   Load Forecast
+                   Renewables (MW)                                       (MW) Incl IOS  Commercial Units)       Commercial Units)         Demand)
+                                                            (MW)
+Mon 23/Jan/2023        29,232                0             29,687           29,997            -2.5%                   -2.5%                -1.0%
+Tue 24/Jan/2023        29,231                0             29,708           29,918            -2.3%                   -2.3%                -0.7%
+Wed 25/Jan/2023        28,876                0             29,664           29,882            -3.4%                   -3.4%                -0.7%
+Thu 26/Jan/2023        28,412                0             29,936           29,901            -5.0%                   -5.0%                0.1%
+Fri 27/Jan/2023        28,624                0             28,407           28,578            0.2%                    0.2%                 -0.6%
+Sat 28/Jan/2023        27,562                0             27,654           27,304            0.9%                    0.9%                 1.3%
+ Sun 29/Jan/2023       28,452                0              28,150            27,945               1.8%                1.8%                 0.7%
+
+
+
+Notes:
+1. Available Dispatchable Generation means all generation resources that can be dispatched by Eskom and includes capacity available from all
+   emergency generation resources.
+2.   RSA Contracted Load Forecast is the total official day-ahead hourly forecast. Residual Load Forecast excludes the expected generation from
+     renewables.
+3.   Actual Residual Demand is the aggregated metered hourly sent-out generation and imports from dispatchable resources and includes demand
+     reductions. The Actual RSA Contracted Demand includes renewable generation.
+4.   Net Maximum Dispatchable Capacity (including imports and emergency generation resources) = 49 191 MW.
+5.   These figures do not include any demand side products.
+6.   The peak hours for the residual demand can differ from that of the RSA contracted demand, depending on renewable generation.
+
+
+
+
+Eskom Holdings SOC Ltd Reg No 2002/015527/30
+                                                                                                                                           Page 1 of 5
+Week-on-Week Dispatchable Generation Energy Sent Out            [2023 weeks compared to similar 2022 weeks]
+
+                                                              Week 4 : Dispatchable Generation Energy Sent Out Statistics
+
+                                                                           Energy Sent Out                                     3,569      GWh
+                                                                        Week-on-Week Growth                                   -12.38       %
+                                                               Year-on-Year Growth (Year-to-Date) Annual                      -11.80       %
+                                                       Note:
+                                                       2023 Weeks are compared to similar weeks in 2022.
+                                                       (2023 week 1 ~ 2022 week 1)
+
+                                                                         Annual Dispatchable Generation Energy Sent Out Statistics
+
+                                                          Year          01 Jan to 29 Jan Energy        Annual Energy (01 Jan to 31 Dec)    Unit
+                                                          2018                   17,254                            224,202                 GWh
+                                                          2019                   16,919                            219,575                 GWh
+                                                          2020                   16,727                            206,725                 GWh
+                                                          2021                   15,956                            210,022                 GWh
+                                                          2022                   16,061                            202,847                 GWh
+                                                       2023 (YTD)                14,259                                                    GWh
+
+
+
+
+Week-on-Week Residual Energy Demand                                 [2023 weeks compared to similar 2022 weeks]
+
+                                                                    Week 4 : Residual Energy Demand Statistics (Incl IOS)
+
+                                                                            Energy Demand                                     4,056       GWh
+                                                                        Week-on-Week Growth                                   -0.49        %
+                                                               Year-on-Year Growth (Year-to-Date) Annual                       0.38        %
+                                                       Note:
+                                                       2023 Weeks are compared to similar weeks in 2022.
+                                                       (2023 week 1 ~ 2022 week 1)
+
+                                                                            Annual Residual Energy Demand Statistics (Incl IOS)
+
+                                                          Year          01 Jan to 29 Jan Energy        Annual Energy (01 Jan to 31 Dec)    Unit
+                                                          2018                   17,264                            224,594                 GWh
+                                                          2019                   16,936                            220,937                 GWh
+                                                          2020                   16,847                            208,151                 GWh
+                                                          2021                   16,122                            211,958                 GWh
+                                                          2022                   16,072                            211,133                 GWh
+                                                       2023 (YTD)                16,217                                                    GWh
+
+
+
+
+Week-on-Week RSA Contracted Energy Demand                           [2023 weeks compared to similar 2022 weeks]
+
+                                                              Week 4 : RSA Contracted Energy Demand Statistics (Incl IOS)
+
+                                                                            Energy Demand                                     4,384       GWh
+                                                                        Week-on-Week Growth                                   0.10         %
+                                                               Year-on-Year Growth (Year-to-Date) Annual                      1.01         %
+                                                       Note:
+                                                       2023 Weeks are compared to similar weeks in 2022.
+                                                       (2023 week 1 ~ 2022 week 1)
+
+                                                                         Annual RSA Contracted Energy Demand Statistics (Incl IOS)
+
+                                                          Year          01 Jan to 29 Jan Energy        Annual Energy (01 Jan to 31 Dec)    Unit
+                                                          2018                   18,241                            235,482                 GWh
+                                                          2019                   18,040                            232,524                 GWh
+                                                          2020                   17,872                            220,630                 GWh
+                                                          2021                   17,323                            227,166                 GWh
+                                                          2022                   17,397                            227,336                 GWh
+                                                       2023 (YTD)                17,630                                                    GWh
+
+
+
+
+Eskom Holdings SOC Ltd Reg No 2002/015527/30
+                                                                                                                                     Page 2 of 5
+Week-on-Week Dispatchable Generation Peak Demand                             [2023 weeks compared to similar 2022 weeks]
+
+                                                           Week 4 : Dispatchable Generation Peak Demand Statistics
+
+                                                                        Peak Demand                                        24,362   MW
+                                                                    Week-on-Week Growth                                    -13.90    %
+                                                           Year-on-Year Growth (Year-to-Date) Annual                       -13.90    %
+                                                   Note:
+                                                   2023 Weeks are compared to similar weeks in 2022.
+                                                   (2023 week 1 ~ 2022 week 1)
+
+                                                                      Annual Dispatchable Generation Peak Demand Statistics
+
+                                                      Year                Peak Date                          Annual Peak             Unit
+                                                      2018             Mon 16-Jul-2018                          34,256               MW
+                                                      2019             Thu 30-May-2019                          33,066               MW
+                                                      2020             Wed 17-Jun-2020                          32,384               MW
+                                                      2021              Thu 15-Jul-2021                         32,292               MW
+                                                      2022             Thu 02-Jun-2022                          31,756               MW
+                                                   2023 (YTD)          Mon 23-Jan-2023                          24,362               MW
+
+
+
+
+Week-on-Week Residual Peak Demand                           [2023 weeks compared to similar 2022 weeks]
+
+                                                                 Week 4 : Residual Peak Demand Statistics (Incl IOS)
+
+                                                                        Peak Demand                                        29,275   MW
+                                                                    Week-on-Week Growth                                     2.96     %
+                                                           Year-on-Year Growth (Year-to-Date) Annual                        2.96     %
+                                                   Note:
+                                                   2023 Weeks are compared to similar weeks in 2022.
+                                                   (2023 week 1 ~ 2022 week 1)
+
+                                                                         Annual Residual Peak Demand Statistics (Incl IOS)
+
+                                                      Year               Peak Date                           Annual Peak             Unit
+                                                      2018             Tue 29-May-2018                          34,907               MW
+                                                      2019             Thu 30-May-2019                          33,746               MW
+                                                      2020             Wed 15-Jul-2020                          32,756               MW
+                                                      2021             Tue 08-Jun-2021                          34,029               MW
+                                                      2022             Thu 23-Jun-2022                          33,136               MW
+                                                   2023 (YTD)          Thu 26-Jan-2023                          29,275               MW
+
+
+
+
+Week-on-Week RSA Contracted Peak Demand                         [2023 weeks compared to similar 2022 weeks]
+
+                                                           Week 4 : RSA Contracted Peak Demand Statistics (Incl IOS)
+
+                                                                        Peak Demand                                        29,997   MW
+                                                                    Week-on-Week Growth                                     0.43     %
+                                                           Year-on-Year Growth (Year-to-Date) Annual                        0.43     %
+                                                   Note:
+                                                   2023 Weeks are compared to similar weeks in 2022.
+                                                   (2023 week 1 ~ 2022 week 1)
+
+                                                                     Annual RSA Contracted Peak Demand Statistics (Incl IOS)
+
+                                                      Year                Peak Date                          Annual Peak             Unit
+                                                      2018             Tue 29-May-2018                          35,345               MW
+                                                      2019             Thu 30-May-2019                          34,510               MW
+                                                      2020             Tue 01-Sep-2020                          34,155               MW
+                                                      2021              Thu 22-Jul-2021                         35,005               MW
+                                                      2022             Thu 23-Jun-2022                          34,666               MW
+                                                   2023 (YTD)          Mon 23-Jan-2023                          29,997               MW
+
+
+
+
+Eskom Holdings SOC Ltd Reg No 2002/015527/30
+                                                                                                                               Page 3 of 5
+Weekly Generation Availability
+
+                                                                                                                Week                                                                                Annual (Jan - Dec)
+                                                        43       44       45       46       47       48      49       50        51         52           1           2           3           4          2023          2022
+Energy Availability Factor (Eskom EAF) 56.62 59.01 55.24 56.43 56.46 54.36 51.18 50.48 49.90 48.51 49.45 51.06 52.78 52.57                                                                             51.41         58.01
+Planned Outage Factor                                 12.05     9.62    11.35     9.89    12.19    9.13     11.53 15.39 16.67 17.09 13.94 12.87 13.04 13.57                                            13.29         10.62
+Unplanned Outage Factor                               29.84 29.28 31.37 31.60 29.12 34.69 35.64 32.90 32.19 33.11 34.39 33.64 31.68 32.04                                                              33.15         29.85
+Other Outage Factor                                    1.49     2.09     2.04     2.08    2.23     1.82     1.65     1.23      1.24      1.29          2.22      2.43        2.50        1.82           2.15         1.52
+
+
+EAF: Ratio of the available energy generation over a given time period to the maximum amount of energy which could be produced over the same time period.
+
+Outage Factors: Ratio of energy losses over a given time period to the maximum amount of energy which could be produced over the same time period.
+
+YTD: Year-to-Date (01 January of current year to current week)
+
+
+
+52 Week Outlook
+
+This is the forecast demand vs. available generating capacity for each week for 52 weeks ahead. Colour codes ranging from Green (no shortage) to Red
+(worst case) are used to indicate the absence or presence of a capacity constraint.
+                     MW          MW          MW           MW            MW            MW             MW          MW
+Week Start Week      RSA       Residual   Available    Available      Planned     Unplanned       Planned    Likely Risk
+                  Contracted   Forecast Dispatchable Capacity (Less Maintenance     Outage       Risk Level    Senario
+                   Forecast               Capacity    OR and UA)                Assumption (UA) (-15200 MW) (-16700 MW)
+30-Jan-23     5     30399       28023       43433        28233          5758         13000           210        -1290
+06-Feb-23     6     30495       28499       43976        28776          5215         13000           277        -1223
+                                                                                                                            Notes - Assumptions critical:
+13-Feb-23     7     30238       28449       43719        28519          5472         13000             70       -1430       The maintenance plan included in these assumptions includes a
+20-Feb-23     8     30106       28317       43391        28191          5800         13000           -126       -1626       base scenario of outages (planned risk level). As there is
+27-Feb-23     9     29975       28276       43441        28241          5750         13000            -35       -1535
+                                                                                                                            opportunity for further outages, these will be included. This “likely
+06-Mar-23    10     30191       28623       43056        27856          6135         13000           -767       -2267
+13-Mar-23    11     30131       28563       43791        28591          5400         13000             28       -1472       risk scenario” includes an additional 1500 MW of outages on the
+20-Mar-23    12     30207       28559       43791        28591          5400         13000             32       -1468       base plan.
+27-Mar-23    13     29911       28263       43356        28156          5835         13000           -107       -1607       The expected imports at Apollo is included.
+03-Apr-23    14     29668       28022       43356        28156          5835         13000           134        -1366
+10-Apr-23    15     30357       28711       43511        28311          5680         13000           -400       -1900
+                                                                                                                            Avon and Dedisa is also included.
+17-Apr-23    16     31197       29550       44823        29623          4368         13000             73       -1427       The forecast used is the latest operational weekly residual peak
+24-Apr-23    17     31748       30102       46023        30823          3168         13000           721         -779       forecast, which excludes the expected renewable generation.
+01-May-23    18     33601       32419       46213        31013          2978         13000          -1406       -2906
+08-May-23    19     34531       33349       46987        31787          2204         13000          -1562       -3062
+                                                                                                                            Operating Reserve (OR) from Generation: 2 200 MW
+15-May-23    20     34704       33522       46987        31787          2204         13000          -1735       -3235       Unplanned Outage Assumption (UA): 13 000
+22-May-23    21     35031       33849       47177        31977          2014         13000          -1872       -3372       Reserves: OR + UA = 15 200 MW
+29-May-23    22     35849       34667       47377        32177          1814         13000          -2490       -3990
+                                                                                                                            Eskom Installed Capacity: 48 186 MW.
+05-Jun-23    23     35053       33773       47229        32029          1962         13000          -1744       -3244
+12-Jun-23    24     35055       33774       47177        31977          2014         13000          -1797       -3297
+                                                                                                                            Installed Dispatchable Capacity: 49 191 MW (Incl. Avon and
+19-Jun-23    25     34886       33605       47177        31977          2014         13000          -1628       -3128       Dedisa).
+26-Jun-23    26     35391       34110       47100        31900          2091         13000          -2210       -3710       Key:
+ 03-Jul-23   27     35153       33662       47642        32442          1549         13000          -1220       -2720
+ 10-Jul-23   28     35127       33636       47642        32442          1549         13000          -1194       -2694
+ 17-Jul-23   29     35242       33751       47970        32770          1221         13000           -981       -2481
+ 24-Jul-23   30     35288       33797       47622        32422          1569         13000          -1375       -2875       Risk Level   Description
+ 31-Jul-23   31     34476       32985       47047        31847          2144         13000          -1138       -2638
+07-Aug-23    32     34154       32460       46407        31207          2784         13000          -1253       -2753
+14-Aug-23    33     33807       32114       45860        30660          3331         13000          -1454       -2954       Green        Adequate Generation to meet Demand and Reserves.
+21-Aug-23    34     33730       32037       46179        30979          3012         13000          -1058       -2558       Yellow       < 1 000MW Possibly short to meet Reserves
+28-Aug-23    35     33641       31961       45734        30534          3457         13000          -1427       -2927       Orange       1 001MW – 2 000MW Definitively short to meet Reserves and possibly Demand
+04-Sep-23    36     33478       31791       45901        30701          3290         13000          -1090       -2590       Red          > 2 001MW Short to meet Demand and Reserves
+11-Sep-23    37     33126       31440       46481        31281          2710         13000           -159       -1659
+18-Sep-23    38     32252       30565       45963        30763          3228         13000           198        -1302
+25-Sep-23    39     32248       30561       44925        29725          4266         13000           -836       -2336
+02-Oct-23    40     32438       30461       44545        29345          4646         13000          -1116       -2616
+09-Oct-23    41     31837       29871       44635        29435          4556         13000           -436       -1936
+16-Oct-23    42     31305       29362       44351        29151          4840         13000           -211       -1711
+23-Oct-23    43     30945       29062       43538        28338          5653         13000           -724       -2224
+30-Oct-23    44     31008       29125       43708        28508          5483         13000           -617       -2117
+06-Nov-23    45     30887       28819       42952        27752          6239         13000          -1067       -2567
+13-Nov-23    46     30757       28689       43065        27865          6126         13000           -824       -2324
+20-Nov-23    47     30574       28506       42482        27282          6709         13000          -1224       -2724
+27-Nov-23    48     30527       28459       42355        27155          6836         13000          -1304       -2804
+04-Dec-23    49     30584       28401       43132        27932          6059         13000           -469       -1969
+11-Dec-23    50     30003       27820       41939        26739          7252         13000          -1081       -2581
+18-Dec-23    51     28902       26719       40390        25190          8801         13000          -1529       -3029
+25-Dec-23    52     26884       24702       40190        24990          9001         13000           288        -1212
+01-Jan-24     1     27811       25810       41203        26003          7988         13000           193        -1307
+08-Jan-24     2     29404       27404       41303        26103          7888         13000          -1301       -2801
+15-Jan-24     3     30156       28156       42362        27162          6829         13000           -994       -2494
+22-Jan-24     4     30129       28129       43230        28030          5961         13000            -99       -1599
+29-Jan-24     5     30346       28346       43512        28312          5679         13000            -34       -1534
+
+
+
+
+Medium Term Peak Demand/Capacity Forecast
+
+Please go to the link below for the Medium-term System Adequacy Outlook - 2022 to 2026. (Published 30 October 2021).
+
+https://www.eskom.co.za/wp-content/uploads/2021/11/MediumTermSystemAdequacyOutlook2022-2026.pdf
+
+or
+
+https://www.eskom.co.za/eskom-divisions/tx/system-adequacy-reports/
+
+
+
+
+Eskom Holdings SOC Ltd Reg No 2002/015527/30
+                                                                                                                                                                                                              Page 4 of 5
+Renewable Energy Statistics
+
+Note: Times are expressed as hour beginning
+      Current Installed Capacity (MW)
+         CSP                                             500.0
+          PV                                            2,287.1
+ Wind (Eskom+IPP)                                       3,442.6
+Total (Incl other REs)                                  6,280.2
+
+    Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+
+ Cal Year   Indicator         CSP                  PV           Wind (Eskom+IPP) Total (Incl other REs)
+            Maximum          506.2               2,099.5             3,028.1             5,126.1
+ All Time
+            Max Date    15-Mar-2022 15:00   24-Oct-2021 12:00   02-Dec-2022 16:00 05-Sep-2022 12:00
+            Maximum           200.9              1,350.5             1,229.8             2,576.3
+  2016
+            Max Date    11-Aug-2016 14:00   16-Dec-2016 12:00   23-Dec-2016 13:00   23-Dec-2016 13:00
+            Maximum           302.0              1,432.5             1,708.2             3,142.7
+  2017
+            Max Date    07-Nov-2017 10:00   27-Oct-2017 12:00   25-Dec-2017 18:00   13-Dec-2017 13:00
+            Maximum           399.7              1,392.1             1,902.3             3,298.9
+  2018
+            Max Date    04-Dec-2018 16:00   03-Oct-2018 12:00   02-Oct-2018 16:00   28-Sep-2018 11:00
+            Maximum           502.1              1,375.6             1,872.0             3,530.6
+  2019
+            Max Date    24-Sep-2019 11:00   19-Jan-2019 12:00   14-Dec-2019 15:00   27-Oct-2019 13:00
+            Maximum           504.5              1,929.2             2,113.9             4,050.0
+  2020
+            Max Date    25-Nov-2020 12:00   25-Nov-2020 12:00   01-Dec-2020 19:00   24-Nov-2020 13:00
+            Maximum           504.9              2,099.5             2,639.3             4,784.7
+  2021
+            Max Date    30-Nov-2021 16:00   24-Oct-2021 12:00   15-Dec-2021 17:00   01-Nov-2021 13:00
+            Maximum           506.2              2,048.8             3,028.1             5,126.1
+  2022
+            Max Date    15-Mar-2022 15:00   20-Nov-2022 11:00   02-Dec-2022 16:00   05-Sep-2022 12:00
+            Maximum           504.8              1,998.1             2,801.4             4,252.0
+  2023
+            Max Date    06-Jan-2023 13:00   27-Jan-2023 12:00   28-Jan-2023 18:00   28-Jan-2023 16:00
+
+
+
+
+ Annual Energy Contribution (MWh) - based on System Operator data (subject to metering verification)
+
+ Cal Year Indicator           CSP                  PV           Wind (Eskom+IPP) Total (Incl other REs)
+All Time Annual
+                            1,656,017           5,069,146           9,692,373           16,202,974
+Maximum Energy
+            Total
+  2016                      529,522             2,630,141           3,730,771           6,951,261
+           Energy
+            Total
+  2017                      687,703             3,324,857           5,081,023           9,198,632
+           Energy
+            Total
+  2018                      1,031,288           3,282,124           6,467,095           10,887,902
+           Energy
+            Total
+  2019                      1,557,151           3,324,989           6,624,642           11,586,945
+           Energy
+            Total
+  2020                      1,626,049           4,140,212           6,625,830           12,478,704
+           Energy
+            Total
+  2021                      1,656,017           5,069,146           8,359,224           15,208,327
+           Energy
+            Total
+  2022                      1,448,276           4,844,736           9,692,373           16,202,974
+           Energy
+            Total
+  2023                      161,045             505,668              934,291            1,628,665
+           Energy
+
+
+Maximum Difference between Consecutive Evening Peaks (MW) -        Maximum proportion that Renewables contributed towards actual hourly energy
+based on System Operator data (subject to metering verification)   supplied (%) - based on System Operator data (subject to metering verification)
+Cal Year Indicator              Total (Incl other REs)                    Cal Year                   Indicator              Total (Incl other REs)
+          Maximum                        1,744                                                      Maximum                         19.3%
+All Time                                                                  All Time
+          Max Date         07-Aug-2021 to 08-Aug-2021                                               Max Date                 05-Sep-2022 12:00
+          Maximum                         828                                                       Maximum                          9.8%
+  2016                                                                       2016
+          Max Date          30-Aug-2016 to 31-Aug-2016                                              Max Date                 23-Dec-2016 13:00
+          Maximum                        1,038                                                      Maximum                         12.7%
+  2017                                                                       2017
+          Max Date          19-Jun-2017 to 20-Jun-2017                                              Max Date                 25-Dec-2017 15:00
+          Maximum                        1,336                                                      Maximum                         13.1%
+  2018                                                                       2018
+          Max Date          01-Sep-2018 to 02-Sep-2018                                              Max Date                  01-Jan-2018 14:00
+          Maximum                        1,464                                                      Maximum                         13.9%
+  2019                                                                       2019
+          Max Date           05-Jul-2019 to 06-Jul-2019                                             Max Date                 14-Dec-2019 14:00
+          Maximum                        1,488                                                      Maximum                         16.1%
+  2020                                                                       2020
+          Max Date          31-Aug-2020 to 01-Sep-2020                                              Max Date                 27-Dec-2020 15:00
+          Maximum                        1,744                                                      Maximum                         19.1%
+  2021                                                                       2021
+          Max Date          07-Aug-2021 to 08-Aug-2021                                              Max Date                 01-Nov-2021 13:00
+          Maximum                        1,523                                                      Maximum                         19.3%
+  2022                                                                       2022
+          Max Date          07-Aug-2022 to 08-Aug-2022                                              Max Date                 05-Sep-2022 12:00
+          Maximum                        1,273                                                      Maximum                         18.3%
+  2023                                                                       2023
+          Max Date          11-Jan-2023 to 12-Jan-2023                                              Max Date                  28-Jan-2023 16:00
+
+
+
+
+Eskom Holdings SOC Ltd Reg No 2002/015527/30
+                                                                                                                                                     Page 5 of 5
+

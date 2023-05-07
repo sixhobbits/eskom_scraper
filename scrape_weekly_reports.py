@@ -1,0 +1,3 @@
+from eskom_dataroom_scraper import scrape_weekly_reports
+
+scrape_weekly_reports()

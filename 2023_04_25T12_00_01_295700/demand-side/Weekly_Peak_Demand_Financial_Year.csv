@@ -1,0 +1,313 @@
+WeekStartDate;Forecast_Or_Actual_Value;Forecast_Or_Actual_Value_Legend
+2023-04-03 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-04-03 12:00:00 AM;;2023-24-Residual Peak Forecast
+2023-04-03 12:00:00 AM;31159;2022-23-Residual Peak Demand
+2023-04-03 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-04-03 12:00:00 AM;28712;2022-23-RSA Contracted Peak Demand
+2023-04-03 12:00:00 AM;28995;2023-24-RSA Contracted Peak Demand
+2023-04-10 12:00:00 AM;28934;2023-24-RSA Contracted Peak Demand
+2023-04-10 12:00:00 AM;29815;2022-23-RSA Contracted Peak Demand
+2023-04-10 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-04-10 12:00:00 AM;31724;2022-23-Residual Peak Demand
+2023-04-10 12:00:00 AM;;2023-24-Residual Peak Forecast
+2023-04-10 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-04-17 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-04-17 12:00:00 AM;;2023-24-Residual Peak Forecast
+2023-04-17 12:00:00 AM;31421;2022-23-Residual Peak Demand
+2023-04-17 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-04-17 12:00:00 AM;30298;2022-23-RSA Contracted Peak Demand
+2023-04-17 12:00:00 AM;30624;2023-24-RSA Contracted Peak Demand
+2023-04-24 12:00:00 AM;;2023-24-RSA Contracted Peak Demand
+2023-04-24 12:00:00 AM;30370;2022-23-RSA Contracted Peak Demand
+2023-04-24 12:00:00 AM;;2023-24-Residual Peak Demand
+2023-04-24 12:00:00 AM;31765;2022-23-Residual Peak Demand
+2023-04-24 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-04-24 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-05-01 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-05-01 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-05-01 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-05-01 12:00:00 AM;30603;2022-23-RSA Contracted Peak Demand
+2023-05-01 12:00:00 AM;31826;2022-23-Residual Peak Demand
+2023-05-01 12:00:00 AM;30603;2023-24-RSA Contracted Peak Demand
+2023-05-08 12:00:00 AM;31162;2023-24-RSA Contracted Peak Demand
+2023-05-08 12:00:00 AM;32613;2022-23-Residual Peak Demand
+2023-05-08 12:00:00 AM;31172;2022-23-RSA Contracted Peak Demand
+2023-05-08 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-05-08 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-05-08 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-05-15 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-05-15 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-05-15 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-05-15 12:00:00 AM;31332;2022-23-RSA Contracted Peak Demand
+2023-05-15 12:00:00 AM;33221;2022-23-Residual Peak Demand
+2023-05-15 12:00:00 AM;31634;2023-24-RSA Contracted Peak Demand
+2023-05-22 12:00:00 AM;31917;2023-24-RSA Contracted Peak Demand
+2023-05-22 12:00:00 AM;34727;2022-23-Residual Peak Demand
+2023-05-22 12:00:00 AM;32450;2022-23-RSA Contracted Peak Demand
+2023-05-22 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-05-22 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-05-22 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-05-29 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-05-29 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-05-29 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-05-29 12:00:00 AM;34693;2022-23-Residual Peak Demand
+2023-05-29 12:00:00 AM;31916;2022-23-RSA Contracted Peak Demand
+2023-05-29 12:00:00 AM;32499;2023-24-RSA Contracted Peak Demand
+2023-06-05 12:00:00 AM;31626;2023-24-RSA Contracted Peak Demand
+2023-06-05 12:00:00 AM;32028;2022-23-RSA Contracted Peak Demand
+2023-06-05 12:00:00 AM;34825;2022-23-Residual Peak Demand
+2023-06-05 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-06-05 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-06-05 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-06-12 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-06-12 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-06-12 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-06-12 12:00:00 AM;34278;2022-23-Residual Peak Demand
+2023-06-12 12:00:00 AM;30868;2022-23-RSA Contracted Peak Demand
+2023-06-12 12:00:00 AM;31804;2023-24-RSA Contracted Peak Demand
+2023-06-19 12:00:00 AM;31791;2023-24-RSA Contracted Peak Demand
+2023-06-19 12:00:00 AM;32747;2022-23-RSA Contracted Peak Demand
+2023-06-19 12:00:00 AM;34900;2022-23-Residual Peak Demand
+2023-06-19 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-06-19 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-06-19 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-06-26 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-06-26 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-06-26 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-06-26 12:00:00 AM;32871;2022-23-RSA Contracted Peak Demand
+2023-06-26 12:00:00 AM;34397;2022-23-Residual Peak Demand
+2023-06-26 12:00:00 AM;32015;2023-24-RSA Contracted Peak Demand
+2023-07-03 12:00:00 AM;31883;2023-24-RSA Contracted Peak Demand
+2023-07-03 12:00:00 AM;34689;2022-23-Residual Peak Demand
+2023-07-03 12:00:00 AM;32596;2022-23-RSA Contracted Peak Demand
+2023-07-03 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-07-03 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-07-03 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-07-10 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-07-10 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-07-10 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-07-10 12:00:00 AM;32556;2022-23-RSA Contracted Peak Demand
+2023-07-10 12:00:00 AM;34335;2022-23-Residual Peak Demand
+2023-07-10 12:00:00 AM;31821;2023-24-RSA Contracted Peak Demand
+2023-07-17 12:00:00 AM;32315;2023-24-RSA Contracted Peak Demand
+2023-07-17 12:00:00 AM;34666;2022-23-Residual Peak Demand
+2023-07-17 12:00:00 AM;32293;2022-23-RSA Contracted Peak Demand
+2023-07-17 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-07-17 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-07-17 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-07-24 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-07-24 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-07-24 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-07-24 12:00:00 AM;34545;2022-23-Residual Peak Demand
+2023-07-24 12:00:00 AM;32378;2023-24-RSA Contracted Peak Demand
+2023-07-24 12:00:00 AM;31637;2022-23-RSA Contracted Peak Demand
+2023-07-31 12:00:00 AM;32297;2022-23-RSA Contracted Peak Demand
+2023-07-31 12:00:00 AM;31681;2023-24-RSA Contracted Peak Demand
+2023-07-31 12:00:00 AM;34387;2022-23-Residual Peak Demand
+2023-07-31 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-07-31 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-07-31 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-08-07 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-08-07 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-08-07 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-08-07 12:00:00 AM;33846;2022-23-Residual Peak Demand
+2023-08-07 12:00:00 AM;31227;2023-24-RSA Contracted Peak Demand
+2023-08-07 12:00:00 AM;31541;2022-23-RSA Contracted Peak Demand
+2023-08-14 12:00:00 AM;30962;2022-23-RSA Contracted Peak Demand
+2023-08-14 12:00:00 AM;30828;2023-24-RSA Contracted Peak Demand
+2023-08-14 12:00:00 AM;33830;2022-23-Residual Peak Demand
+2023-08-14 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-08-14 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-08-14 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-08-21 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-08-21 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-08-21 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-08-21 12:00:00 AM;33901;2022-23-Residual Peak Demand
+2023-08-21 12:00:00 AM;30607;2022-23-RSA Contracted Peak Demand
+2023-08-21 12:00:00 AM;30975;2023-24-RSA Contracted Peak Demand
+2023-08-28 12:00:00 AM;30475;2023-24-RSA Contracted Peak Demand
+2023-08-28 12:00:00 AM;29443;2022-23-RSA Contracted Peak Demand
+2023-08-28 12:00:00 AM;32650;2022-23-Residual Peak Demand
+2023-08-28 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-08-28 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-08-28 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-09-04 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-09-04 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-09-04 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-09-04 12:00:00 AM;32806;2022-23-Residual Peak Demand
+2023-09-04 12:00:00 AM;29407;2022-23-RSA Contracted Peak Demand
+2023-09-04 12:00:00 AM;30642;2023-24-RSA Contracted Peak Demand
+2023-09-11 12:00:00 AM;30633;2023-24-RSA Contracted Peak Demand
+2023-09-11 12:00:00 AM;30007;2022-23-RSA Contracted Peak Demand
+2023-09-11 12:00:00 AM;32950;2022-23-Residual Peak Demand
+2023-09-11 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-09-11 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-09-11 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-09-18 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-09-18 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-09-18 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-09-18 12:00:00 AM;32929;2022-23-Residual Peak Demand
+2023-09-18 12:00:00 AM;29668;2022-23-RSA Contracted Peak Demand
+2023-09-18 12:00:00 AM;29989;2023-24-RSA Contracted Peak Demand
+2023-09-25 12:00:00 AM;29936;2023-24-RSA Contracted Peak Demand
+2023-09-25 12:00:00 AM;29560;2022-23-RSA Contracted Peak Demand
+2023-09-25 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-09-25 12:00:00 AM;32091;2022-23-Residual Peak Demand
+2023-09-25 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-09-25 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-10-02 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-10-02 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-10-02 12:00:00 AM;31966;2022-23-Residual Peak Demand
+2023-10-02 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-10-02 12:00:00 AM;29471;2022-23-RSA Contracted Peak Demand
+2023-10-02 12:00:00 AM;29659;2023-24-RSA Contracted Peak Demand
+2023-10-09 12:00:00 AM;29395;2023-24-RSA Contracted Peak Demand
+2023-10-09 12:00:00 AM;28875;2022-23-RSA Contracted Peak Demand
+2023-10-09 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-10-09 12:00:00 AM;32232;2022-23-Residual Peak Demand
+2023-10-09 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-10-09 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-10-16 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-10-16 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-10-16 12:00:00 AM;32367;2022-23-Residual Peak Demand
+2023-10-16 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-10-16 12:00:00 AM;29359;2022-23-RSA Contracted Peak Demand
+2023-10-16 12:00:00 AM;29309;2023-24-RSA Contracted Peak Demand
+2023-10-23 12:00:00 AM;28894;2022-23-RSA Contracted Peak Demand
+2023-10-23 12:00:00 AM;31807;2022-23-Residual Peak Demand
+2023-10-23 12:00:00 AM;29015;2023-24-RSA Contracted Peak Demand
+2023-10-23 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-10-23 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-10-23 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-10-30 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-10-30 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-10-30 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-10-30 12:00:00 AM;28860;2023-24-RSA Contracted Peak Demand
+2023-10-30 12:00:00 AM;31782;2022-23-Residual Peak Demand
+2023-10-30 12:00:00 AM;28355;2022-23-RSA Contracted Peak Demand
+2023-11-06 12:00:00 AM;28364;2022-23-RSA Contracted Peak Demand
+2023-11-06 12:00:00 AM;31751;2022-23-Residual Peak Demand
+2023-11-06 12:00:00 AM;28381;2023-24-RSA Contracted Peak Demand
+2023-11-06 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-11-06 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-11-06 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-11-13 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-11-13 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-11-13 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-11-13 12:00:00 AM;31519;2022-23-Residual Peak Demand
+2023-11-13 12:00:00 AM;28371;2023-24-RSA Contracted Peak Demand
+2023-11-13 12:00:00 AM;28520;2022-23-RSA Contracted Peak Demand
+2023-11-20 12:00:00 AM;28220;2023-24-RSA Contracted Peak Demand
+2023-11-20 12:00:00 AM;28309;2022-23-RSA Contracted Peak Demand
+2023-11-20 12:00:00 AM;31168;2022-23-Residual Peak Demand
+2023-11-20 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-11-20 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-11-20 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-11-27 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-11-27 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-11-27 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-11-27 12:00:00 AM;31122;2022-23-Residual Peak Demand
+2023-11-27 12:00:00 AM;27448;2022-23-RSA Contracted Peak Demand
+2023-11-27 12:00:00 AM;27991;2023-24-RSA Contracted Peak Demand
+2023-12-04 12:00:00 AM;27880;2023-24-RSA Contracted Peak Demand
+2023-12-04 12:00:00 AM;26967;2022-23-RSA Contracted Peak Demand
+2023-12-04 12:00:00 AM;30700;2022-23-Residual Peak Demand
+2023-12-04 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-12-04 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-12-04 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-12-11 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-12-11 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-12-11 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-12-11 12:00:00 AM;30539;2022-23-Residual Peak Demand
+2023-12-11 12:00:00 AM;27519;2022-23-RSA Contracted Peak Demand
+2023-12-11 12:00:00 AM;27927;2023-24-RSA Contracted Peak Demand
+2023-12-18 12:00:00 AM;26163;2022-23-RSA Contracted Peak Demand
+2023-12-18 12:00:00 AM;26752;2023-24-RSA Contracted Peak Demand
+2023-12-18 12:00:00 AM;28891;2022-23-Residual Peak Demand
+2023-12-18 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-12-18 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-12-18 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-12-25 12:00:00 AM;;2022-23-Residual Peak Forecast
+2023-12-25 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2023-12-25 12:00:00 AM;0;2023-24-Residual Peak Demand
+2023-12-25 12:00:00 AM;27348;2022-23-Residual Peak Demand
+2023-12-25 12:00:00 AM;24130;2023-24-RSA Contracted Peak Demand
+2023-12-25 12:00:00 AM;23432;2022-23-RSA Contracted Peak Demand
+2024-01-01 12:00:00 AM;25175;2022-23-RSA Contracted Peak Demand
+2024-01-01 12:00:00 AM;25810;2023-24-RSA Contracted Peak Demand
+2024-01-01 12:00:00 AM;0;2022-23-Residual Peak Demand
+2024-01-01 12:00:00 AM;0;2023-24-Residual Peak Demand
+2024-01-01 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2024-01-01 12:00:00 AM;;2022-23-Residual Peak Forecast
+2024-01-08 12:00:00 AM;;2022-23-Residual Peak Forecast
+2024-01-08 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2024-01-08 12:00:00 AM;0;2023-24-Residual Peak Demand
+2024-01-08 12:00:00 AM;0;2022-23-Residual Peak Demand
+2024-01-08 12:00:00 AM;27404;2023-24-RSA Contracted Peak Demand
+2024-01-08 12:00:00 AM;26953;2022-23-RSA Contracted Peak Demand
+2024-01-15 12:00:00 AM;28156;2023-24-RSA Contracted Peak Demand
+2024-01-15 12:00:00 AM;27834;2022-23-RSA Contracted Peak Demand
+2024-01-15 12:00:00 AM;0;2022-23-Residual Peak Demand
+2024-01-15 12:00:00 AM;0;2023-24-Residual Peak Demand
+2024-01-15 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2024-01-15 12:00:00 AM;;2022-23-Residual Peak Forecast
+2024-01-22 12:00:00 AM;;2022-23-Residual Peak Forecast
+2024-01-22 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2024-01-22 12:00:00 AM;0;2023-24-Residual Peak Demand
+2024-01-22 12:00:00 AM;0;2022-23-Residual Peak Demand
+2024-01-22 12:00:00 AM;28222;2022-23-RSA Contracted Peak Demand
+2024-01-22 12:00:00 AM;28129;2023-24-RSA Contracted Peak Demand
+2024-01-29 12:00:00 AM;28346;2023-24-RSA Contracted Peak Demand
+2024-01-29 12:00:00 AM;28259;2022-23-RSA Contracted Peak Demand
+2024-01-29 12:00:00 AM;0;2022-23-Residual Peak Demand
+2024-01-29 12:00:00 AM;0;2023-24-Residual Peak Demand
+2024-01-29 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2024-01-29 12:00:00 AM;;2022-23-Residual Peak Forecast
+2024-02-05 12:00:00 AM;;2022-23-Residual Peak Forecast
+2024-02-05 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2024-02-05 12:00:00 AM;0;2023-24-Residual Peak Demand
+2024-02-05 12:00:00 AM;0;2022-23-Residual Peak Demand
+2024-02-05 12:00:00 AM;28379;2022-23-RSA Contracted Peak Demand
+2024-02-05 12:00:00 AM;28940;2023-24-RSA Contracted Peak Demand
+2024-02-12 12:00:00 AM;28490;2022-23-RSA Contracted Peak Demand
+2024-02-12 12:00:00 AM;29065;2023-24-RSA Contracted Peak Demand
+2024-02-12 12:00:00 AM;0;2022-23-Residual Peak Demand
+2024-02-12 12:00:00 AM;0;2023-24-Residual Peak Demand
+2024-02-12 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2024-02-12 12:00:00 AM;;2022-23-Residual Peak Forecast
+2024-02-19 12:00:00 AM;;2022-23-Residual Peak Forecast
+2024-02-19 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2024-02-19 12:00:00 AM;0;2023-24-Residual Peak Demand
+2024-02-19 12:00:00 AM;0;2022-23-Residual Peak Demand
+2024-02-19 12:00:00 AM;29199;2023-24-RSA Contracted Peak Demand
+2024-02-19 12:00:00 AM;29029;2022-23-RSA Contracted Peak Demand
+2024-02-26 12:00:00 AM;28416;2022-23-RSA Contracted Peak Demand
+2024-02-26 12:00:00 AM;29006;2023-24-RSA Contracted Peak Demand
+2024-02-26 12:00:00 AM;0;2022-23-Residual Peak Demand
+2024-02-26 12:00:00 AM;0;2023-24-Residual Peak Demand
+2024-02-26 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2024-02-26 12:00:00 AM;;2022-23-Residual Peak Forecast
+2024-03-04 12:00:00 AM;;2022-23-Residual Peak Forecast
+2024-03-04 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2024-03-04 12:00:00 AM;0;2023-24-Residual Peak Demand
+2024-03-04 12:00:00 AM;0;2022-23-Residual Peak Demand
+2024-03-04 12:00:00 AM;29552;2023-24-RSA Contracted Peak Demand
+2024-03-04 12:00:00 AM;28931;2022-23-RSA Contracted Peak Demand
+2024-03-11 12:00:00 AM;28670;2022-23-RSA Contracted Peak Demand
+2024-03-11 12:00:00 AM;29236;2023-24-RSA Contracted Peak Demand
+2024-03-11 12:00:00 AM;0;2022-23-Residual Peak Demand
+2024-03-11 12:00:00 AM;0;2023-24-Residual Peak Demand
+2024-03-11 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2024-03-11 12:00:00 AM;;2022-23-Residual Peak Forecast
+2024-03-18 12:00:00 AM;;2022-23-Residual Peak Forecast
+2024-03-18 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2024-03-18 12:00:00 AM;0;2023-24-Residual Peak Demand
+2024-03-18 12:00:00 AM;0;2022-23-Residual Peak Demand
+2024-03-18 12:00:00 AM;28298;2022-23-RSA Contracted Peak Demand
+2024-03-18 12:00:00 AM;29480;2023-24-RSA Contracted Peak Demand
+2024-03-25 12:00:00 AM;29276;2023-24-RSA Contracted Peak Demand
+2024-03-25 12:00:00 AM;28004;2022-23-RSA Contracted Peak Demand
+2024-03-25 12:00:00 AM;0;2022-23-Residual Peak Demand
+2024-03-25 12:00:00 AM;0;2023-24-Residual Peak Demand
+2024-03-25 12:00:00 AM;0;2023-24-Residual Peak Forecast
+2024-03-25 12:00:00 AM;;2022-23-Residual Peak Forecast

@@ -1,0 +1,13 @@
+Fin_Year;Value;DESCR;MaximumDate;Title_Desc
+  All Time;506,19999999999999;    CSP;2022-03-15;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+  All Time;2099,5;   PV;2021-10-24;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+  All Time;3028,0999999999999;  Wind(Eskom+IPP);2022-12-02;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+  All Time;5126,1000000000004;Total RE;2022-09-05;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+2022-23;505,89999999999998;    CSP;2022-12-04;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+2022-23;2048,8000000000002;   PV;2022-11-20;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+2022-23;3028,0999999999999;  Wind(Eskom+IPP);2022-12-02;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+2022-23;5126,1000000000004;Total RE;2022-09-05;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+2023-24;3978,5999999999999;Total RE;2023-04-03;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+2023-24;1904,7;  Wind(Eskom+IPP);2023-04-03;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+2023-24;1822,4000000000001;   PV;2023-04-04;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+2023-24;490,69999999999999;    CSP;2023-04-03;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)

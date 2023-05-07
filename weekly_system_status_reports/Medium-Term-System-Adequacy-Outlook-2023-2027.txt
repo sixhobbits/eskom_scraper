@@ -1,0 +1,1543 @@
+MEDIUM-TERM SYSTEM
+ADEQUACY OUTLOOK
+
+
+      30 OCTOBER 2022
+ Generation System Adequacy for the Republic of South Africa
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   Purpose
+
+   The purpose of this publication is to inform electricity consumers of the status of the power system
+
+   adequacy as well as foreseeable futures that may arise based on the information at hand. The study is
+
+   not intended to be used as a plan but rather to explore how possible different futures might test the
+
+   adequacy of a generation system.
+
+   Disclaimer
+
+   While the System Operator has taken all reasonable care in the collection and analysis of data available,
+
+   the System Operator is not responsible for any loss that may be attributed to the use of this information
+
+   from unforeseen circumstances that may arise from the continually changing South African energy
+
+   industry. Before taking any business decisions, interested parties are advised to seek separate and
+
+   independent opinions in relation to the matters covered by this report and should not rely solely on data
+
+   and information contained herein. Information in this document does not amount to a recommendation
+
+   in respect of any possible investment. This publication is generally based on information available to
+
+   the System Operator as at 1 August 2022, unless otherwise indicated.
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   1.    Executive summary ____________________________________________________________________________ 1
+   2.    Introduction ______________________________________________________________________________________ 3
+   3.    Methodology _____________________________________________________________________________________ 4
+   4.    Assumptions ____________________________________________________________________________________ 6
+         4.1 Energy demand forecast __________________________________________________________________________________6
+         4.2 Plant performance ________________________________________________________________________________________7
+         4.3 Eskom fleet shutdown ____________________________________________________________________________________8
+         4.4 New build stations ________________________________________________________________________________________9
+         4.5 Renewables from the Independent Power Producer Programme ____________________________________ 10
+         4.6 Other non-Eskom capacity licensed by NERSA _________________________________________________________ 11
+         4.7 Potential levers to close the supply gap modelled in the MTSAO 2023-2027 ________________________ 12
+         4.8 Reserves _________________________________________________________________________________________________ 13
+
+   5.    Study cases _____________________________________________________________________________________ 15
+   6.    Results ___________________________________________________________________________________________ 16
+         6.1 Adequacy metrics results of base case scenarios ______________________________________________________ 16
+         6.2 Energy gap requirements _______________________________________________________________________________ 18
+
+   7.    Sensitivities _____________________________________________________________________________________ 19
+         7.1 Koeberg life extension delay ____________________________________________________________________________ 19
+         7.2 Minimum emissions standards _________________________________________________________________________ 20
+
+   8.    Potential levers to close the supply shortfall not considered ________________________ 23
+         8.1 Small-scale embedded generation (SSEG) _____________________________________________________________ 23
+         8.2 National energy crisis committee initiatives ___________________________________________________________ 24
+
+   9.    Conclusions and recommendations _______________________________________________________ 25
+   10.   References ______________________________________________________________________________________ 28
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   List of figures
+
+   Figure 1: MTSAO methodology ............................................................................................................................................................................ 5
+   Figure 2: Possible energy demand forecasts ............................................................................................................................................... 6
+   Figure 3: Historical total outages (MW) ............................................................................................................................................................ 7
+   Figure 4: EAF trajectories and actuals (%) .................................................................................................................................................... 8
+   Figure 5: Assumed capacity shutdown from 2022 to 2027 .................................................................................................................... 9
+   Figure 6: Committed new build capacity (MW) ......................................................................................................................................... 10
+   Figure 7: REIPPP cumulative capacity (MW) ............................................................................................................................................ 11
+
+
+
+   List of tables
+
+   Table 1:non-Eskom capacity and energy ..................................................................................................................................................... 12
+   Table 2: IRP 2019: Bid Windows 5-8 installed capacity (MW) .......................................................................................................... 12
+   Table 3: Reserves requirement for seasonal peak and off-peak (FY2023-FY2027) ............................................................ 14
+   Table 4: 2021 frequency incidents ................................................................................................................................................................... 15
+   Table 5: MTSAO 2022 study cases ................................................................................................................................................................. 16
+   Table 6: Adequacy metrics results without IRP 2019 ............................................................................................................................. 17
+   Table 7: Adequacy metric results with IRP 2019 ...................................................................................................................................... 17
+   Table 8: Energy gap results with no additional IRP 2019 capacity (GWh) ................................................................................. 18
+   Table 9: Energy gap results with additional IRP 2019 capacity ....................................................................................................... 19
+   Table 10: Koeberg risk with no additional capacity ................................................................................................................................. 20
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   List of abbreviations and definitions
+
+    Term/Abbreviation                    Definition
+    Capacity factor (CF)                 Measures how hard the plant is running against its maximum possible
+                                         output.
+    Department of Forestry, Fisheries    Government department mandated to give effect to the right of citizens to
+    and the Environment (DFFE)           an environment that is not harmful to their health or well-being and to have
+                                         the environment protected for the benefit of present and future generations.
+    Department of Mineral Resources      Government department mandated to ensure secure and sustainable
+    and Energy (DMRE)                    provision of energy for socio-economic development.
+    Department of Public Enterprises     Government department mandated to perform shareholder oversight on
+    (DPE)                                behalf of the government.
+    Energy Availability Factor (EAF)     The percentage of the maximum energy a plant can supply to the grid when
+                                         not on planned or unplanned outage.
+    Forced Outage Rate (FOR)             The fraction of time (annually) that units at the generator are expected to
+                                         be unavailable because of random failures.
+    Gross Value Added (GVA)              The value generated by any unit engaged in producing goods and services.
+
+    Integrated Resource Plan (IRP)       A generation capacity expansion plan based on least-cost electricity supply
+                                         and demand balance in the long term.
+    Planned Outage Rate (POR)            The fraction of time (annually) that units are out of service because of
+                                         scheduled maintenance events.
+    Minimum emission standards (MES)     Regulation published under the National Environmental Management: Air
+                                         Quality Act (NEMAQA) 39 of 2004.
+    National Energy Crisis Committee     A committee formed by the President of the Republic to end load shedding.
+    (NECOM)
+    National Energy Regulator of South   A regulatory authority established as a juristic person in terms of section 3
+    Africa (NERSA)                       of the National Energy Regulator Act 40 of 2004.
+    Energy National Joint Operational    A structure providing technical oversight to the NECOM.
+    and Intelligence Structure
+    (NATJOINTS)
+    National Nuclear Regulator (NNR)     The legal entity established in terms of the National Nuclear Regulator Act
+                                         47 of 1999.
+    Open-cycle gas turbine (OCGT)        A combustion-type turbine using liquified/gas fuel typically for emergency
+                                         periods.
+    Renewable Independent Power          A vehicle set up to procure electricity from renewable and non-renewable
+    Producer Programme (REIPPP)          energy sources from the private sector.
+    Risk Mitigation Independent Power    A programme designed by the DMRE to fulfil the Minister’s directive
+    Producer Programme (RMIPP)           identified by the IRP 2019 gazette.
+    Small-scale embedded generation      Power generation facilities located at residential, commercial, or industrial
+    (SSEG)                               sites, where electricity is generally also consumed and may be exported
+                                         onto the grid.
+    System Operator (SO)                 An entity within Eskom entrusted with ensuring continuous and reliable
+                                         delivery of electricity.
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+
+   1.       Executive summary
+
+   The Medium-term System Adequacy Outlook (MTSAO) is a generation assessment that
+
+   measures the electric power system’s ability to meet demand over the next five calendar years
+
+   within acceptable levels of reliability as defined by the adequacy metrics. The current MTSAO
+
+   for the period 2023 to 2027, hereinafter referred to as MTSAO 2022, considers the following
+
+   key assumptions:
+
+   Demand assumptions:
+
+   i.      The low-demand forecast has an annual average growth rate of -0,3%.
+
+   ii.     On the other hand, the moderate-high demand forecast has an annual average growth
+
+           rate of 1% and is linked to a GDP growth rate of 1,88%.
+
+   Plant performance assumptions:
+
+    iii.   Low EAF: This is a statistically derived EAF forecast based on historical trends and
+
+           depicts an EAF that averages 58% annually in the study period.
+
+    iv.    High EAF: This scenario depicts an EAF that improves to 68% by the end of the study
+
+           period.
+
+   Four reference scenarios are studied using two EAFs and two demand forecast trajectories.
+
+   The study further assesses the impact of new generation capacity from the IRP 2019 Bid
+
+   Windows 5 to 8 as additional levers. Additionally, the impact of a two-year delay in the life
+
+   extension of the Koeberg Nuclear Power Station on the system’s ability to meet demand within
+
+   acceptable reliability is tested.
+
+
+
+
+Page 1
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   The result of this MTSAO shows the following:
+
+
+
+               ✓ The low EAF scenario is severely inadequate irrespective of the demand
+
+                   forecast scenarios.
+
+               ✓ The high EAF and moderate-high demand scenario is likewise inadequate.
+
+               ✓ The high EAF and low-demand scenario is marginally inadequate, which does
+
+                   not support further electricity sales.
+
+               ✓ The addition of IRP 2019 Bid Windows 5 to 8 generation capacity helps but
+
+                   does not sufficiently restore the inadequate scenarios to adequacy.
+
+               ✓ A delay of Koeberg’s life extension by two years will severely constrain the
+
+                   system and exacerbate the inadequacy.
+
+
+
+
+   The following is observed from the energy gap analysis:
+
+
+
+
+               ✓ The worst-case scenario shows that the energy required to restore the system
+
+                   to the adequacy is 18 TWh in 2023, increasing to 30 TWh in 2027. The energy
+
+                   gap of 18 TWh in 2023 is equivalent to Matla Power Station production at full
+
+                   load.
+
+               ✓ With the addition of IRP 2019 generation capacity from 2024, the energy gap
+
+                   reduces from 15 TWh to 9 TWh in 2024 and from 30 TWh to 7,9 TWh in 2027.
+
+               ✓ Delaying Koeberg’s life extension is not desirable since it increases the energy
+
+                   required by 15 TWh per year over and above the energy needed without
+
+                   delays.
+
+
+
+
+Page 2
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+
+   2.         Introduction
+
+   The Medium-term System Adequacy Outlook (MTSAO) assesses the electricity power system’s
+
+   ability to meet demand within predefined adequacy thresholds in the next five calendar years.
+
+   The current study covers the calendar years 2023 to 2027 and is referred to as the MTSAO
+
+   2022.
+
+   The MTSAO assessment is meant to identify and trigger warnings when the security of supply
+
+   faces risks. In particular, the outcomes of the assessment inform:
+
+   ✓       consumers of the depth of the risk, that is, the amount and nature of demand not served;
+
+   ✓       consumers of the likely timing of supply risks, be it the time of day or time of year (the
+
+           volume of the energy gap may dictate the nature of the generation resources as baseload
+
+           or peaking required to restore system adequacy);
+
+   ✓       policymakers with foresight to procure sufficient generation resources, that is, when and
+
+           how much additional energy is required to meet expected demand; and
+
+   ✓       consumers with the opportunity to prepare for a possible interruption in supply.
+
+
+
+   The MTSAO does not optimise in terms of the type and timing of capacity required to close the
+
+   supply gap, as is the case when developing the IRP. Furthermore, the MTSAO does not assess
+
+   the adequacy of the grid needed to transport and distribute electricity. Therefore, the detail of
+
+   the location of any supply shortages that may be localised because of the pattern of supply loss
+
+   and how it interacts with the transmission and/or distribution system is not assessed.
+
+   The MTSAO is published annually in compliance with the South African Grid Code (SAGC:
+
+   System Operator Code January 2022), which requires the System Operator (SO) to publish it
+
+   on or before 30 October each year. In so doing, the SO is required to consider the following:
+
+Page 3
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   ✓     possible scenarios for growth in the demand of electricity consumers. The expected
+
+         demand includes South Africa’s demand plus exports to neighbouring countries;
+
+   ✓     possible scenarios for growth and/or decline in generation available to meet the expected
+
+         demand. These include all the generation resources licensed by the National Energy
+
+         Regulator   (NERSA)     plus   imports   from   neighbouring   countries,   demand-side
+
+         management resources, and distributed generation;
+
+   ✓     possible scenarios for new and committed generation projects; and
+
+   ✓     any other information that the SO may reasonably deem appropriate.
+
+
+
+   3.      Methodology
+
+   Figure 1 shows the MTSAO process where input data consisting of demand forecast and
+
+   generation resources as licensed by NERSA, imports, and demand-side management are
+
+   assessed hourly to quantify the supply-demand balances or lack thereof over the next five
+
+   calendar years. The study considers the following stochastic parameters when conducting
+
+   Monte Carlo simulations: the demand forecast, wind, solar PV, CSP generation production
+
+   profile, and unplanned power plant outages. The Monte Carlo simulations address the random
+
+   nature of these stochastic parameters since they are intermittent and impossible to predict
+
+   accurately. The Monte Carlo simulation method computes optimal decisions for many possible
+
+   outcomes, and the results of the MTSAO represent an average across all the samples. The
+
+   number of samples defined is based on a balanced trade-off between simulation runtime, input-
+
+   output convergence, and quality of results.
+
+
+
+
+Page 4
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+
+
+
+                                        Figure 1: MTSAO methodology
+
+
+
+   The results of these Monte Carlo simulations are then reported annually to determine the extent
+
+   to which the system meets or violates the adequacy metrics when dispatching available
+
+   generators optimally. The electric power system is deemed to be adequate if it satisfies the
+
+   following adequacy thresholds:
+
+     I.    The total amount of unserved energy per year is less than 20 GWh
+
+     II.   The capacity factor of open-cycle gas turbines is less than 6% per year.
+
+    III.   The capacity factor of the contingency base load station is less than 50% per year.
+
+   In case of an inadequate system, an energy gap analysis is undertaken to determine the total
+
+   amount of energy required to restore the electric power system to adequacy.
+
+
+
+
+Page 5
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+
+   4.                              Assumptions
+
+   This section details key assumptions used in the development of the MTSAO 2022.
+
+
+   4.1 Energy demand forecast
+
+   Two demand forecast scenarios shown in Figure 2Figure 2 were considered in this MTSAO,
+
+   namely,
+
+
+
+                                                              Energy Demand Forecast
+                                  253                                                                                     2.25
+                                  248                                                                                     1.25
+                                                                                                                249
+                                  243                                                                                     0.25
+                                                                                                     246
+         ENERGY FORECAST (TWH)
+
+
+
+
+                                                                                                                                    GROWTH RATE (%)
+                                  238                                                     243                             -0.75
+                                                                                 240
+                                  233                               237                                                   -1.75
+                                          235         235
+                                  228                         228          227      227                                   -2.75
+                                                                                             226         224      225
+                                  223                                                                                     -3.75
+                                           2021
+
+
+
+
+                                                       2022
+
+
+
+
+                                                                    2023
+
+
+
+
+                                                                                 2024
+
+
+
+
+                                                                                          2025
+
+
+
+
+                                                                                                      2026
+
+
+
+
+                                                                                                                 2027
+
+
+                                              Low Demand Growth Rate (%)                     Moderate High Demand Growth Rate (%)
+                                              Low Demand (TWh)                               Moderate High Demand (TWh)
+
+
+
+                                                              Figure 2: Possible energy demand forecasts
+
+
+
+
+   Low demand: This demand scenario has an annual average growth rate of -0,3% and is derived
+
+   from Eskom’s sales projections, considering the volume and timing of potential extensions
+
+   and/or shutdowns of customer operations.
+
+   i.                            Moderate-high demand: This scenario has an annual average growth rate of 1% and uses
+
+                                 GDP as an input into econometric models to calculate the Republic of South Africa’s
+
+                                 energy sent out correlated to the respective economic growth of the country. The GDP
+
+
+Page 6
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+                            forecast from the regional eXplorer (ReX) update of the first quarter of 2022 has an
+
+                            average GDP growth for the MTSAO period of 1,9%, which compares well in the short
+
+                            term with other institutions, such as Fitch Solutions and the IMF.
+
+   The moderate-high scenario expects more economic contribution from primary and secondary
+
+   sectors, which houses highly electricity-intensive sectors such as mining and manufacturing.
+
+   The modelling of these contributions is calculated using Gross Value Add (GVA), which is a
+
+   driver of the different production indices of the industrial sectors. As a result, any positive
+
+   change to the contributions of the primary and secondary sectors will yield favourable growth
+
+   in their respective electricity sectors.
+
+
+   4.2 Plant performance
+
+   Figure 3 shows historical trends of planned and unplanned outages (Eskom Data Portal 2022),
+
+   indicating increasing unplanned outages contributing to deteriorating plant performance.
+
+                                                                Historical outages
+                    30000
+
+
+
+
+                    25000
+
+
+
+
+                    20000
+     MW on outage
+
+
+
+
+                    15000
+
+                                                                                                         UCLF+OCLF
+                                                                                                         PCLF
+                    10000
+                                                                                                         Total Outage
+
+
+
+                     5000
+
+
+
+
+                        0
+
+
+
+
+                                                                   Hour
+
+
+
+
+                                                        Figure 3: Historical total outages (MW)
+
+
+
+
+Page 7
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   The SO expects a downward trend in plant performance to continue in the medium term, fueled
+
+   by increasing unplanned full and partial load losses, particularly given that the current calendar
+
+   year-to-date EAF is 57,8% as at the week ending 16 October 2022.
+
+   Therefore, a more likely low EAF, with an annual average of 58% for the study period, is
+
+   considered the base case of the MTSAO 2022. A higher EAF, averaging 67%, aligned with
+
+   Eskom Generation’s plan, was also considered for assessment, as shown in Figure 4. The
+
+   EAF, averaging 67%, assumes that maintenance planned in the Reliability Maintenance
+
+   Recovery Programme will be able to arrest the decline in the plant performance.
+
+
+
+
+                                    Figure 4: EAF trajectories and actuals (%)
+
+   4.3 Eskom fleet shutdown
+
+   Figure 5 shows that Eskom’s generation fleet is expected to reduce by 5 288 MW between
+
+   2023 and 2027 because of plants reaching their turbine dead-stop dates (DSD). Acacia and
+
+   Port Rex will reach end of life within the study horizon; other units that will be shut down are
+
+   the two units from Kriel, four units from Arnot, eight units from Camden, six units from Hendrina,
+
+
+Page 8
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   and two units from Grootvlei.
+
+
+
+                    -7%
+                                      -10%              -25%
+          8 075
+                            7 519
+          2 100                                6 783
+                            2 100
+           171                                 2 100                       -45%
+                                                                 5 076                      -65%
+           928                171
+                              742
+                                                 171
+          1 295                              371
+                              925              560               2 100
+           560                560              560
+                                                                     171           2 787
+                                                               373                   700
+                                                                                     187
+          2 850             2 850              2 850
+                                                                 2 375
+                                                                                   1 900
+
+           171                171               171               57
+           2023              2024             2025               2026                2027
+              Arnot           Hendrina        Grootvlei        Acacia
+              PortRex         Camden          Kriel
+
+
+
+                             Figure 5: Assumed capacity shutdown from 2022 to 2027
+
+
+   Koeberg Power Station would ordinarily reach its 40-year end of design life in 2024. However,
+
+   in line with the IRP 2019, it is envisaged that all nuclear safety/regulatory licences and the
+
+   steam generator replacement project will be expedited to extend Koeberg’s life by an additional
+
+   20 years. No impact on the 1 860 MW capacity is assumed in the base case of MTSAO 2022.
+
+   The potential delay in Koeberg’s life extension is considered a risk and studied as a sensitivity.
+
+
+   4.4 New build stations
+
+   Since the publication of the MTSAO 2021, Eskom’s new build capacity that achieved
+
+   commercial operation is Kusile Unit 3 in May 2022. Although all Medupi units have reached
+
+   commercial operation, the MTSAO 2022 opted to reduce Medupi capacity to account for the
+
+   damaged Unit 4, which is expected to return to operation in August 2024.
+
+
+
+
+Page 9
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   Kusile Unit 4 was synchronised on the grid on 31 July 2022. The remaining two Kusile units are
+
+   assumed to achieve commercial operation by December 2023 and May 2024. Figure 6 shows
+
+   the cumulative capacity from the remaining Kusile units and Medupi Unit 4.
+
+
+                                                                                       4 332
+
+                                                                                       4 320
+
+                                                                    4 332
+
+                                                                    4 320
+
+                                                 4 332
+
+                                                 4 320
+                              3 610                                         Medupi
+                                                                            Kusile
+                              4 320
+
+           3 610
+           2 880
+           2023               2024               2025               2026                2027
+
+
+                                  Figure 6: Committed new build capacity (MW)
+
+
+
+   4.5 Renewables from the Independent Power Producer Programme
+
+   The MTSAO 2022 study assumes cumulative capacity from the Renewable Energy
+
+   Independent Power Producer Programme (REIPPP) up to Bid Window 4+ and the committed
+
+   Risk Mitigation Independent Power Producer Procurement Programme (RMIPPPP) as
+
+   reflected in Figure 7 . The existing REIPPP capacity in commercial operation amounts to 6 105
+
+   MW. Current projections are that commercial operation of the remaining two projects, the solar
+
+   PV and CSP facility, are on track to be realised by the end of 2022 and early 2024, respectively,
+
+   bringing the total capacity to 6 280 MW. The three projects from the RMIPPPP signed in June
+
+   2022 are expected to be operational in November 2023 and collectively have 150 MW
+
+   contracted capacity comprising a hybrid solar PV and battery configuration.
+
+
+Page 10
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+
+
+
+                                   Figure 7: REIPPP cumulative capacity (MW)
+
+
+   Additional determinations issued/to be issued by the DMRE in line with the gazetted IRP 2019
+
+   are not considered committed in the base case of the MTSAO 2022. However, these are
+
+   regarded as potential levers for identified supply shortages.
+
+
+   4.6 Other non-Eskom capacity licensed by NERSA
+
+   The MTSAO 2022 also considered non-Eskom generation capacity (excluding Avon, Dedisa,
+
+   and Cahora Bassa hydro import), which produces ~ 11 TWh, shown in Table 1. Additional
+
+   capacity includes the 1 005 MW of DMRE Independent Power Producer (IPP) peaking plants
+
+   at Dedisa and Avon and the 1 100 MW Cahora Bassa import. The MTSAO assumed typical
+
+   plant performance based on plant of similar size and age because of the unavailability of data
+
+   for non-Eskom power plants. Furthermore, the study projected similar energy production for the
+
+   future based on historical performance, which is expected to hold during the MTSAO planning
+
+
+
+
+Page 11
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   horizon. Therefore, any unforeseen decline in the production of these generators will have a
+
+   negative impact on power system adequacy.
+
+                                    Table 1:non-Eskom capacity and energy
+                                          Installed capacity (MW)                Energy (GWh)
+                          Coal                      1 832                           6 038
+                         Hydro                       17                               58
+                       Biogas                        4                                    8
+                          Gas                       507                                 2 229
+               Pumped storage                       180                                  166
+                 Cogeneration                       331                                 2 058
+                         Wind                        7                                    11
+                     Biomass                        1,5                                   7
+
+
+
+
+   4.7 Potential levers to close the supply gap modelled in the MTSAO 2023-2027
+
+   The MTSAO 2022 considers potential levers in the pipeline for development from the
+
+   promulgated IRP 2019 emerging plan. In general, judgement on the expected commercial
+
+   operation dates of the IRP 2019 capacity is applied based on up-to-date information from the
+
+   DMRE IPPO. The dates for all capacity from the emerging plan are adjusted accordingly, as
+
+   shown in Table 2.
+
+                           Table 2: IRP 2019: Bid Windows 5-8 installed capacity (MW)
+          Incremental capacity   2022        2023         2024       2025       2026            2027
+                        (MW)
+                          PV                              1 000     2 000                       3 000
+                         Wind                             1 600     3 200       4 800           6 400
+                       Battery                                                   513
+
+
+
+
+Page 12
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   4.8 Reserves
+
+   Table 3 shows the different types of reserves considered in the study as the total minimum
+
+   provision that must be supplied by contributing generators or demand-side load in the system.
+
+   The table shows the different types of reserves defined in the SAGC and the Ancillary Services
+
+   Technical Requirements report 2023-2027:
+
+
+   i.     Instantaneous reserve: This is generating capacity or demand-side managed load that
+
+          must be fully available within 10 seconds to arrest a frequency excursion outside the
+
+          frequency dead band. This reserve response must be sustained for at least 10 minutes.
+
+   ii.    Regulating reserve: This is generating capacity or demand-side managed load that is
+
+          available to respond within 10 seconds and is fully activated within 10 minutes. The
+
+          purpose of this reserve is to make enough capacity available to maintain the frequency
+
+          close to the scheduled frequency and keep tie-line flows between control areas within
+
+          schedule.
+
+  iii.    Ten minutes reserve: This is generating capacity or demand-side managed load that can
+
+          respond within 10 minutes when called upon. It may consist of a quick offline start
+
+          generating plant (e.g., hydro or pumped storage) or demand-side load that can be
+
+          dispatched within 10 minutes. The purpose of this reserve is to restore instantaneous and
+
+          regulating reserves to the required levels after an incident.
+
+  iv.     Emergency reserve: This includes interruptible loads, generator emergency capacity, and
+
+          gas turbine capacity. These requirements arise from the need to take quick action when
+
+          any abnormality arises in the system.
+
+   v.     Supplemental reserve: This is generating or demand-side load that can respond in six
+
+          hours or less to restore operating reserves.
+
+
+
+Page 13
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   An assessment of the magnitude required for each reserve type (these reserves are mutually
+
+   exclusive) is published annually (see Ancillary Services Technical Requirements report). The
+
+   MTSAO 2022 includes these reserves and the individual generating units as well as the
+
+   demand-side loads contributing to the total.
+
+                 Table 3: Reserves requirement for seasonal peak and off-peak (FY2023-FY2027)
+    Reserves              Season         2022/23     2023/24     2024/25      2025/26     2026/27
+
+                        Summer/Winter       650         650         650         650         650
+      Instantaneous
+                           Off-peak         850         850         850         850         850
+                        Summer/Winter       530         545         560         575         600
+          Regulating
+                        Summer/Winter      1 020       1 005        990         975         950
+          Ten-minute
+                           Off-Peak         820         805         790         775         750
+                        Summer/Winter      2 200       2 200       2 200       2 200       2 200
+         Operating
+                                           1 400       1 300       1 200       1 100       1 000
+        Emergency
+                                            200         300         400         500         600
+      Supplemental
+
+
+   Table 4 shows 2021 frequency incidents outside the 49,7 < f < 50.3 frequency band. Ancillary
+
+   services (reserves) play a crucial role in ensuring that the system is within the frequency band
+
+   and are also necessary to support renewable energy integration, particularly the integration of
+
+   intermittent resources. However, actual reserve provision is underperforming, indicating a
+
+   power system critically short of operating reserves, which poses a risk to the system’s ability to
+
+   arrest frequency deviations.
+
+
+
+
+Page 14
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+                                      Table 4: 2021 frequency incidents
+             2021   49,5 < f < 49,7   f < 49,5        f > 50,3      50,5 > f > 50,4   f > 50,5
+             Jan          44             0               5                0              0
+             Feb          89             1               24               3              0
+             Mar         239             6               93               18             2
+             Apr         114             3               54               4              1
+             May         106             3               57               5              0
+             Jun         104             0               83               14             2
+              Jul         86             2               90               7              0
+             Aug          84             1               40               4              0
+             Sep         117             4               50               4              0
+             Oct         203             5              103               4              0
+             Nov         234             2              220               10             1
+             Dec         209             3              170               10             0
+
+
+
+
+   5.      Study cases
+
+   The South African power system is sensitive to variations in the energy demand forecast and
+
+   the Eskom fleet plant performance. The MTSAO 2022 considers four scenarios made of a
+
+   combination of these parameters, as shown in Table 5. The low-demand forecast based on
+
+   Eskom sales and the moderate-high demand forecast derived using GDP were both considered
+
+   to assess the power system adequacy. The demand forecast scenarios are studied with low
+
+   and high EAF scenarios to evaluate the adequacy of the power system. These four scenarios
+
+   were each augmented with 10 GW of IRP 2019 capacity reflected in Table 2, expected between
+
+   2023 and 2027, producing eight total scenarios.
+
+
+
+
+Page 15
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+                                     Table 5: MTSAO 2022 study cases
+
+
+
+
+   6.      Results
+
+   6.1 Adequacy metrics results of base case scenarios
+
+   Table 6 summarises the results averaged across the five-year MTSAO 2022 horizon and gives
+
+   an overall adequacy status based on how the adequacy thresholds are satisfied or violated.
+
+   The low EAF with low and moderate-high demand shows a system that remains inadequate
+
+   throughout assessment. The system’s inadequacy reduces with additional generation capacity
+
+   (Kusile) in 2024, however, it worsens later. Improving the EAF to high shows reduced metrics
+
+   violations compared to low EAF scenarios. The high EAF and low demand scenario shows
+
+   marginal violation of the unserved energy metric and can be managed operationally by the SO.
+
+
+
+
+Page 16
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+                                Table 6: Adequacy metrics results without IRP 2019
+
+                                      Contingency        OCGT CF          Unserved          Overall
+                                      Baseload CF          (%)          Energy (GWh)      Adequacy
+                                          (%)
+
+          Low EAF, Moderate High        59,7-68,3       37,11-59,9       2 894-10 877
+                        Demand
+
+           Low EAF, Low Demand         52,2-62,.8         17,927           858-1 848
+
+          High EAF, Moderate High       37,1-59,8        5,15-24,1        95,2-1 586
+                         Demand
+
+           High EAF Low Demand          22,1-41,6         1,24-4,2         10,6-94,5
+
+
+   Table 7 shows that additional generation capacity from IRP 2019 Bid Windows 5 to 8 helps
+
+   reduce system constraints but is insufficient to restore most of the scenarios to adequacy. This
+
+   is particularly true for the low EAF and moderate-high demand scenarios that remain severely
+
+   inadequate even with additional committed capacity, indicating a power system that is
+
+   challenged to grow electricity consumption.
+
+   The IRP 2019 generation capacity has no impact on the year 2023 since the earliest MW are
+
+   expected to be connected to the grid in 2024. The 2023 numbers across the different scenarios
+
+   reflect the effect of EAF, which is the biggest lever available in the short term.
+
+                                  Table 7: Adequacy metric results with IRP 2019
+                                   Contingency       OCGT CF           Unserved          Overall
+                                   Baseload CF         (%)              Energy          Adequacy
+                                       (%)                               (GWh)
+           Low EAF, Mod-high        54,3-68,3         21,2-37,1       1 181-2 900
+            Demand, IRP 2019
+      Low EAF, Low Demand,          33,4-62,8         4,5-23,3         77-1 186
+                    IRP 2019
+          High EAF, Mod-high        26,3-54,2          2-10,1          29,4-298
+            Demand, IRP 2019
+      high EAF, Low Demand,          9,3-41,6          0,5-4,3           1,4-80
+                    IRP 2019
+
+
+
+Page 17
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   6.2 Energy gap requirements
+
+   The energy gap requirements refer to the additional energy needed on the system to restore
+
+   system adequacy. Table 8 indicates the results of the analysis without additional IRP 2019
+
+   capacity. This type of energy is, for the most part, dispatchable and can mitigate supply
+
+   shortfalls arising from the random nature of unplanned outages and intermittency of generation
+
+   resources in the system. Variable generation resources will reduce the energy gap if the degree
+
+   of their energy production and the demand shortfall coincide. There may be instances where
+
+   the degree of coincidence between the two is low or non-existent. In such instances,
+
+   new/additional generation resources will be required to reduce the shortfall further.
+
+                          Table 8: Energy gap results with no additional IRP 2019 capacity (GWh)
+
+                                               2023          2024          2025           2026     2027
+
+
+         Low EAF, mod-high demand             18 088        15 413        18 441         21 265    30 057
+
+
+                Low EAF, low demand           10 483         5 858         5 922         5 425     9 867
+
+
+         High EAF, mod-high demand             2 851           75           223          2 059     9 597
+
+
+
+
+   The results show an energy shortfall of 18 TWh for the worst-case scenario in the year 2023.
+
+   This energy is equivalent to the Matla1 Power Station operating at full load, performing at the
+
+   current trend. The energy gap reduces to 15 TWh with the addition of Kusile capacity and
+
+   steadily increases to 30 TWh because of some plants shutting down. The high EAF with
+
+   moderate-high demand shows that less energy will be needed to restore the system to
+
+   adequacy when the system EAF improves from an average of 58% to 67%. It shows that an
+
+
+
+   1   Matla is a coal-fired power station owned by Eskom, with a sent-out capacity of 3 450 MW.
+
+Page 18
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   improvement in EAF provides more energy to support higher electricity growth with quicker
+
+   turnaround times.
+
+   Table 9 shows the results of the energy gap analysis when a total of 10 GW of IRP 2019 BW5
+
+   to 8 by 2027 is added.
+
+                            Table 9: Energy gap results with additional IRP 2019 capacity
+                                                 2023        2024       2025         2026    2027
+
+          Low EAF, mod-high demand, IRP         18 087      9 091       7 022        6 679   7 959
+                                   2019
+          Low EAF, low demand, IRP 2019         10 483      2 266        711          300    331
+
+          High EAF, mod-high demand, IRP        2 851          0          44          127    243
+                                   2019
+
+
+
+
+   7.        Sensitivities
+
+   While the study cases of section 6 were designed to fully understand the impact of key
+
+   parameters on the adequacy of the power system, other factors were identified that, if they
+
+   materialised, would likely have a major impact on the system. This section unpacks and
+
+   assesses their impact, where possible.
+
+
+   7.1 Koeberg life extension delay
+
+   IRP 2019 acknowledged that as Koeberg Nuclear Power Station reaches the end of its design
+
+   life in 2024, however, to avoid the demise of nuclear power in the energy mix, Koeberg is
+
+   undergoing design life extension. The IRP 2019, furthermore, recognised that Eskom was at
+
+   an advanced stage with technical work required for the extension of the life of the Koeberg
+
+   plant, which would enable Eskom to apply for the necessary approvals to extend its nuclear
+
+
+Page 19
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   operating licence with the National Nuclear Regulator (NNR).
+
+
+   The MTSAO 2022 considers the impact of possible delays of Koeberg’s life extension by two
+
+   years, based on recent developments, resulting in a loss of 1 860 MW or up to 15 TWh per
+
+   year. The results in Table 10 show a system that is severely constrained with the potential
+
+   shutdown of Koeberg Unit 1 in July 2024 and Unit 2 in November 2025 in accordance with the
+
+   Koeberg 40-year life of plant.
+
+                                Table 10: Koeberg risk with no additional capacity
+                                     Contingency        OCGT CF           Unserved        Overall
+                                     Baseload CF          (%)           Energy (GWh)     Adequacy
+                                         (%)
+    Low EAF Mod-High Demand           59,8–68,3            37-63        2 899–12 606
+                + Koeberg Risk
+        Low EAF Low Demand +           52,5–62,8           21-32         1 025–2 470
+                  Koeberg Risk
+    High EAF Mod-High Demand           38,2–61,3         5,7–28,1         104–2 079
+                + Koeberg Risk
+       High EAF Low Demand +           23,2–41,6          1,7–5,3           14-131
+                  Koeberg Risk
+
+
+
+
+   7.2 Minimum emissions standards
+
+   In terms of the National Environmental Management: Air Quality Act, 2004 (Act No. 39 of 2004),
+
+   all Eskom’s coal and liquid fuel-fired power stations must meet the MES regulations published
+
+   in terms of the Act. Since the MTSAO 2021 report on MES, the following has transpired:
+
+
+   7.2.1 MES decision
+
+   On 4 November 2021, the DFFE made available its final decision in respect of Eskom’s
+
+   applications for the postponement of some of the air quality compliance timelines set in air
+
+   quality legislation for its power stations. In the decision, the stance the DFFE took is for Eskom
+
+   to strictly comply with prescribed limits for local pollutants. Specifically, exemptions were
+
+
+Page 20
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   granted at the coal-fired power stations Arnot, Camden, Grootvlei, Hendrina, Komati, and
+
+   Kusile, as well as Acacia and Port Rex liquid fuel-fired power stations. However, applications
+
+   for postponements at Duvha, Lethabo, Matimba, Matla, and Medupi were declined completely,
+
+   while those for Kendal, Kriel, Majuba, and Tutuka were partially granted in the form of either
+
+   suspensions or alternative air quality limits. When implemented, the decision will result in the
+
+   loss of baseload generation capacity.
+
+          ✓ 15,9 GW immediately upon implementation of the MES decision; and
+
+          ✓ 29,9 GW after April 2025, when current postponements lapse on 31 March 2025.
+
+
+   This will have a significant negative impact on Eskom’s mandate to supply stable and reliable
+
+   electricity for the country’s needs. Following the review of the decision, Eskom engaged the
+
+   DPE, the DFFE, and the DMRE and ultimately opted to appeal the decision in terms of the
+
+   National Appeal Regulations. Because of the complex and conflicting nature of the decision,
+
+   the Minister of the DFFE tabled and proposed2 at Parliament to constitute an appeals forum. A
+
+   forum named the National Environmental and Consultative Advisory (NECA) was nominated
+
+   and subsequently appointed3 to oversee a public participation process to assess, review, and
+
+   report to the Minister on the impact of the decision, taking into account the air quality, public
+
+   health, and the security of energy supply.
+
+
+   7.2.2 National Environmental and Consultative Advisory (NECA) Forum
+
+   The NECA Forum has been constituted in terms of section 3A of the National Environmental
+
+   Management Act, 1998, to advise the Minister of the DFFE on matters arising from the
+
+   applications for the suspension and postponement of compliance with the MES and the
+
+
+   2   https://www.parliament.gov.za/storage/app/media/Docs/atc/bf3f6a83-4fd2-41b7-8454-5e49c13504ab.pdf
+
+   3   Government Gazette No. 46746
+
+Page 21
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   applications for the issuance of provisional atmospheric emissions licences. The forum has
+
+   been asked to develop practical options for the Minister to resolve issues arising from non-
+
+   compliance with MES. In this, the forum is inter alia required to consider the technology options
+
+   available to Eskom, their technical implications and cost, and the impact these options would
+
+   have on electricity supply and the stability of the grid. Further, the forum is tasked to consider
+
+   the Minister’s constitutional and legislative mandate and the country’s international
+
+   commitments, the health and well-being of people, the energy crisis, and the local economic
+
+   climate.
+
+
+   Eskom and other interested and affected parties were invited to contribute to technical briefings
+
+   hosted by the forum. The focus is to outline emission control measures taken to date and future
+
+   emission reduction plans developed, considering current and foreseen financial and resource
+
+   constraints. Additionally, the outcomes of energy supply constraints, financing and grid issues
+
+   evaluated from the impact of the decision will be presented.
+
+
+   7.2.3 Public participation and next steps
+
+   The forum is expected to hold public stakeholder meetings with affected communities in
+
+   November 2022 and submit its recommendations to the Minister of the DFFE by February 2023
+
+
+
+
+Page 22
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+
+   8.        Potential levers to close the supply shortfall not
+             considered
+
+   The MTSAO 2022 notes developments in the electricity supply industry pertaining to initiatives
+
+   earmarked to mitigate against current power system constraints. The options identified that
+
+   may be achieved within the study period include the following:
+
+        ✓ Improvement of the system EAF
+
+        ✓ Improvement of new build performance to design levels
+
+        ✓ Expediting the roll-out of new capacity
+
+        ✓ Exemption of licence initiatives
+
+        ✓ Leasing of Eskom land initiatives
+
+        ✓ Demand-side management initiatives
+
+
+   However, because of challenges in obtaining validated data for any of these initiatives, none
+
+   are considered in the MTSAO 2022. For this reason, the impact of only committed capacity of
+
+   the IRP 2019 Bid Windows is assessed.
+
+
+   8.1 Small-scale embedded generation (SSEG)
+
+   On 10 June 2021, President Cyril Ramaphosa announced that the embedded generation
+
+   threshold would be allowed to increase from 1 MW to 100 MW. This announcement was seen
+
+   as having a positive impact on improved investment in embedded generation projects. The
+
+   DMRE has therefore increased the SSEG threshold from < 1 MW per site to a maximum of
+
+   < 100 MW per individual site. In response to this important change in policy, NERSA received
+
+   applications for 758 MW of SSEG capacity from the commercial and industrial sectors from 1
+
+   January 2022 to 31 August 2022. According to the GreenCape 2022 Market Intelligence report,
+
+
+Page 23
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   the annual available market of rooftop PV is estimated to continue to grow at a rate of 250-400
+
+   MW installed per year, reaching a total of 7,5 GW by 2035. The current South African SSEG
+
+   market is dominated by rooftop solar PV because of viable prices, technology maturity, and
+
+   affluence of implementation of solar panels, and this trend is expected to persist.
+
+
+   The Solar Show Africa (24 August, Sandton Convention Centre) affirms that SSEG growth of
+
+   250-400 MW year on year is very conservative, whereas their forecasts are much higher for
+
+   the period 2023 to 2035. Engagements with PV panel manufacturers and installers at the show
+
+   estimate SSEG growth as high as 1 500 MW per annum
+
+   Collation of this information as to how this would unfold going forward has proven a challenge
+
+   following numerous attempts made with relevant stakeholders such as NERSA, DMRE, CSIR,
+
+   BUSA, SAPVIA, and EUIG. However, the EIUG (Energy Intensive User Group) pledged
+
+   investments that could bring the less than 100 MW initiatives with a focus on addressing the
+
+   immediate electricity supply shortfall and ending load shedding. Possibly, as much as
+
+   5 200 MW could be realised during the MTSAO planning horizon.
+
+
+   8.2 National energy crisis committee initiatives
+
+   Following the Nation’s address by President Cyril Ramaphosa on 25 July 2022, where he
+
+   announced an intervention to end load shedding and achieve energy security, the President
+
+   also announced the lifting of the licensing of the <100 MW threshold. The NECOM, comprising
+
+   all government departments, Eskom, research institutions, and other public entities, was then
+
+   established to co-ordinate a response to the current energy crisis to end load shedding.
+
+   The NATJOINTS, in support of NECOM, identified the following initiatives and focus areas to
+
+   achieve this objective:
+
+   ✓      improving the performance and availability of the existing Eskom plant;
+
+Page 24
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   ✓      expediting the connection of generation capacity from existing and future procurement
+
+          rounds, as well as on measures to enable private investment and facilitate SSEG;
+
+   ✓      developing a detailed plan to improve demand management and ensure the
+
+          implementation of energy efficiency and customer response measures; and
+
+   ✓      procuring power from companies who have existing generation capacity through Eskom’s
+
+          Standard Offer Programme. The combined programme is predicted to exceed 1 000 MW.
+
+   Through the NECOM initiatives, procurement of the IRP 2019 capacity will be accelerated, with
+
+   Bid Window 6 allocated capacity doubling from the initial 2 600 MW to 5 200 MW. Capacity of
+
+   3 000 MW from gas and 513 MW from battery would also be procured in the next bid windows.
+
+   Even before the announcement of the lifting of licensing of the <100 MW initiatives, there was
+
+   a huge interest with a potential of adding over 6 000 MW of variable renewable and other
+
+   technologies comprising solar PV, hybrid, wind, diesel, and biomass from the private sector.
+
+   Eskom has released land adjacent to its existing power stations in Mpumalanga for private
+
+   investment in renewable energy projects, which will unlock 2 000 MW of new capacity. This will
+
+   have the added benefit of eliminating the grid availability constraint.
+
+
+
+
+   9.       Conclusions and recommendations
+
+   South Africa has been faced with chronic power supply constraints for over 10 years. The
+
+   current year has been the worst yet, and it is evident from this study that the situation will
+
+   worsen as the plant performance of Eskom’s fleet continue to trend downwards, power stations
+
+   shut down, and demand grows.
+
+   The result of this MTSAO showed the following:
+
+
+Page 25
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+   ✓      The low EAF scenario is severely inadequate irrespective of the demand forecast
+
+          scenarios.
+
+   ✓      The high EAF scenarios are just about adequate only in the low-demand scenario, which
+
+          does not support a higher economic growth rate.
+
+   ✓      The high EAF and the moderate-high demand scenario are likewise inadequate.
+
+   Traditionally, new capacity will need to be procured through a section 34 determination process
+
+   to improve the security of supply and set the country’s power system on a path to recovery and
+
+   growth. Typically, this is a prolonged process, and the outcomes of this study show that the
+
+   envisaged new capacity in the IRP 2019 emerging plan when completely rolled out, will not be
+
+   enough to fully remedy the supply constraints.
+
+   Any other disruption to the already fragile power supply will have a detrimental effect on the
+
+   ability of the system to provide secure and reliable electricity to the consumer. The
+
+   MTSAO 2022 study shows that delays to the extension of the operating licence of Koeberg will
+
+   further exacerbate the power supply constraints leading to massive amounts of unserved
+
+   energy. Although not assessed in detail, it can be concluded that enforcing the MES regulations
+
+   will be catastrophic to the operability of the power system, given the quantum of capacity
+
+   impacted by the MES decision.
+
+   To restore power system adequacy in the medium term, the MTSAO 2022 recommends the
+
+   following:
+
+   ✓      The MTSAO 2020 had reported that Eskom initiated a Generation Reliability
+
+          Maintenance Recovery Programme (RMR) with an objective of doing deep refurbishment
+
+          and maintenance requirements to improve the system EAF. However, evidence as seen
+
+          in Figure 4 shows a trend of outages that continue to increase, thereby decreasing system
+
+          EAF. This suggests that the RMR programme in its current form may not be yielding
+
+Page 26
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+          desired outcomes. Given that the EAF is the biggest lever to system adequacy and the
+
+          statistically determined trend reflects a further downward trajectory, it is crucial that the
+
+          current maintenance regime is reviewed to improve its efficacy.
+
+   ✓      It is no longer a matter of expediting new generation capacity based on the IRP 2019,
+
+          recent studies such as Eskom Transmission’s Generation Connection Capacity
+
+          Assessment 20244 (GCCA 2024) report notes that issues of the grid are a challenge to
+
+          address in the medium-term. The latest report notes that the limiting factor for connecting
+
+          new generation resources is that the areas with the best solar or wind resources lack
+
+          connection infrastructure. This is primarily the Greater Cape area comprising the Western
+
+          Cape, Northern Cape and Eastern Cape networks that require “substantial upstream
+
+          network strengthening to facilitate new generation capacity”. It concludes that the
+
+          IRP 2019 capacity in its current form cannot be connected in those areas in the medium-
+
+          term. Therefore, transmission development projects need to be expedited to unlock
+
+          potential generation initiatives.
+
+   ✓      Ensure that compliance with the MES does not result in a capacity shutdown.
+
+   ✓      Ensure that there are no further delays in the commissioning of the Eskom new build
+
+          programme and that the process to address design defects at Medupi and Kusile does
+
+          not just continue promptly but also yields improved performance.
+
+   ✓      Place more emphasis on extending the life of Koeberg Power Station, as the loss of
+
+          Koeberg units would significantly impact adequacy in the short term.
+
+
+
+
+   4The GCCA report provides readily accessible information on where and how much generation
+   connection capacity is available within the transmission network and can be accessed at
+   https://www.eskom.co.za/eskom-divisions/tx/gcca/
+
+Page 27
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+
+        10.      References
+
+   i.     Amended Schedule 2 of the Electricity Regulation Act (ERA) 4 of 2006 [online]
+
+          https://www.gov.za/speeches/mineral-resources-and-energy-amended-schedule-2-
+
+          electricity-regulation-act-4-2006-13-aug
+
+  ii.     Ancillary services for renewable integration, 2009, A. S. Chuang; C. Schwaegerl [online]
+
+          https://www.ieeexplore.ieee.org/document/5211165
+
+ iii.     AREP, 2019. Estimated growth for the solar PV sector for 2019, [online] https://www.
+
+          arepenergy.co.za/south-africa-solar-pv-update-2019/
+
+ iv.      Eskom    System     Operator,   “Eskom     Data   Portal,”   21   October   2022.   [Online]
+
+          https://www.eskom.co.za/dataportal/
+
+  v.      Fitch Connect - Fitch Solutions, QEO_SA_Q3_2022_EXT.pdf (mcusercontent.com), World
+
+          Economic Outlook Update, July 2022: Gloomy and More Uncertain (imf.org)
+
+ vi.      GCES,2022. Large Scale Renewable Energy and Energy Services MI [online],
+
+          https://www.greencape.co.za/assets/ES_MIR_29_3_22_FINAL.pdf
+
+vii.      Government Communications: National Energy Crisis Committee of Ministers briefs media
+
+          on National Energy Crisis, 01 August 2022 [online] https://www.gov.za/speeches/media-
+
+          briefing-national-energy-crisis-committee-ministers-1-aug-2022-0000
+
+viii.     IHS Global Insights [online] 2022q1 | IHS Markit Regional eXplorer (rexanalytics.co.za)
+
+ ix.      IMF,    [online]    https://businesstech.co.za/news/business/553228/imf-cuts-south-africa-
+
+          growth-forecasts/
+
+  x.      IRP, 2019. IRP 2019, Integrated Resource Plan, Department of Energy [online]
+
+          http://www.energy.gov.za/IRP/2019/IRP-2019.pdf.
+
+Page 28
+MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK
+
+ xi.    NERSA SAGC, The South African Grid Code System Operation code, Rev 11,2022
+
+xii.    Solar Show Africa 2022, [online] www.nfiere.com/the-solar-show-africa
+
+xiii.   System Operator, 2020. Ancillary Services Technical Requirements for 2022/23 - 2026/27,
+
+        [online]https://www.eskom.co.za/eskom-divisions/tx/ancilliary-services-technical-
+
+        requirements/
+
+
+
+
+Page 29
+

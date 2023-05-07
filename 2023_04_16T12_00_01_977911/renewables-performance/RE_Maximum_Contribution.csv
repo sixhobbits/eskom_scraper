@@ -1,0 +1,5 @@
+Fin_Year;Value;DESCR;MaximumDate;Title_Desc
+  All Time;461,30000000000001;    CSP;2019-08-03;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+  All Time;1260,0999999999999;   PV;2019-04-16;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+  All Time;1849,0999999999999;  Wind(Eskom+IPP);2019-07-23;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
+  All Time;3043,8000000000002;Total RE;2019-07-22;Maximum Contribution (MW) - based on System Operator data (subject to metering verification)
